@@ -1,0 +1,30 @@
+Running altool at path '/Applications/Xcode_26.3.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-07-24 01:41:04.612 ERROR: [ContentDelivery.Uploader.104D3AC20] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘2’. (ID: 40acf883-f69c-4d70-b38d-fed5b197a4aa)
+   NSUnderlyingError : The provided entity includes an attribute with a value that has already been used (-19241) The bundle version must be higher than the previously uploaded version.
+      status : 409
+      detail : The bundle version must be higher than the previously uploaded version.
+      source : 
+         pointer : /data/attributes/cfBundleVersion
+      id : 40acf883-f69c-4d70-b38d-fed5b197a4aa
+      code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+      title : The provided entity includes an attribute with a value that has already been used
+      meta : 
+         previousBundleVersion : 2
+   previousBundleVersion : 2
+   iris-code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+2026-07-24 01:41:04.613 ERROR: [altool.104D3AC20] Failed to upload package.
+2026-07-24 01:41:04.614 ERROR: [altool.104D3AC20] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘2’. (ID: 40acf883-f69c-4d70-b38d-fed5b197a4aa)
+   NSUnderlyingError : The provided entity includes an attribute with a value that has already been used (-19241) The bundle version must be higher than the previously uploaded version.
+      status : 409
+      detail : The bundle version must be higher than the previously uploaded version.
+      source : 
+         pointer : /data/attributes/cfBundleVersion
+      id : 40acf883-f69c-4d70-b38d-fed5b197a4aa
+      code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+      title : The provided entity includes an attribute with a value that has already been used
+      meta : 
+         previousBundleVersion : 2
+   previousBundleVersion : 2
+   iris-code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+Failed to upload archive at 'PhoneCleaner.ipa/PhoneCleaner.ipa'.

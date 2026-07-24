@@ -1,0 +1,4 @@
+Bundle ID 资源匹配：com.smz.yrk.pxf -> V23HD55Y4S
+证书查询结果：2 个 [ 'DISTRIBUTION', 'DISTRIBUTION' ]
+签名 profile 新建：bundleId=com.smz.yrk.pxf profile=appstore-com.smz.yrk.pxf-20260724013954234 [id=26XG69NUNY] uuid=8e1a8d45-5175-4f83-953b-fd3a1046e52a
+签名 bundleIds: com.smz.yrk.pxf(appstoreconnect, uuid=8e1a8d45-5175-4f83-953b-fd3a1046e52a)

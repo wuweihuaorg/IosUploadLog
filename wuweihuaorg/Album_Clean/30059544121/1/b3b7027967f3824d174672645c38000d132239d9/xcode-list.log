@@ -1,0 +1,11 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/Album_Clean/Album_Clean/PhoneCleaner.xcworkspace
+
+Information about workspace "PhoneCleaner":
+    Schemes:
+        PhoneCleaner
+        PlusKit
+        Pods-PhoneCleaner
+        UMCommon
+        UMDevice
+
